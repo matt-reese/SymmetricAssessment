@@ -2,7 +2,7 @@
 
 To run this project:
 
-Using a command line, enter these commands:
+Make sure Python 3 is installed, then, using a command line, enter these commands:
 1. git clone https://github.com/mattofutexas/SymmetricAssessment.git
 2. cd SymmetricAssessment
 3. python generate_datasets.py -- this will generate three CSV files (GUDID data, MDALL data, and their aligned data)
